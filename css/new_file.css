@@ -1,0 +1,336 @@
+.header {
+	width: 100%;
+	height: 76px;
+}
+
+ul {
+	list-style-type: none;
+	background: #1a1d20;
+	height: 76px;
+	margin: 0px;
+	padding-left: 150px;
+	padding-right: 150px;
+	overflow: hidden;
+}
+
+.home {
+	padding-left: 600px;
+}
+
+li {
+	float: left;
+	padding: 14px 16px;
+}
+
+li a {
+	display: block;
+	color: #fff;
+	text-align: center;
+	padding: 16px;
+	text-decoration: none;
+}
+
+li a:hover:not(.active) {
+	color: #2ec3e3;
+}
+
+html,
+body {
+	margin: 0;
+	height: 100%;
+	padding: 0;
+}
+
+.bg {
+	width: 100%;
+	height: 653.66px;
+	background: url(../img/banner.png) 0 0 no-repeat, url(../img/bgb.png) 0 0 no-repeat;
+	background-size: 100% 80%, 100% 100%;
+}
+
+.zi {
+	width: 800px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.font {
+	display: block;
+	padding-top: 200px;
+	text-align: center;
+	font-size: 20px;
+	color: #fff;
+}
+
+.btn {
+	border: 1px solid #fff;
+	border-radius: 8px;
+	background: rgba(255, 255, 255, 0);
+	width: 200px;
+	height: 50px;
+	font-size: 16px;
+	color: #fff;
+	margin-top: 100px;
+}
+
+button:hover {
+	background: rgba(255, 255, 255, 0.3);
+}
+
+.our {
+	background: #2ec3e3;
+	color: #fff;
+	text-align: center;
+	margin-top: -52px;
+}
+
+.o {
+	font-size: 26px;
+}
+
+.l {
+	font-size: 16px;
+}
+
+.pan {
+	height: 10px;
+	width: 100%;
+	margin-top: -8px;
+}
+
+.pan .tiao {
+	width: 100%;
+	height: 100%;
+}
+
+.bgblue {
+	width: 100%;
+	height: 350px;
+	background: #2ec3e3;
+}
+
+.t {
+	width: 100%;
+	height: 182px;
+	margin-top: -280px;
+	padding-left: 150px;
+	padding-right: 150px;
+}
+
+.b {
+	font-weight: bold;
+	font-size: 16px;
+	color: #fff;
+}
+
+.n {
+	color: #fff;
+}
+
+.text1,
+.text2,
+.text3 {
+	text-align: center;
+}
+
+.bggray {
+	width: 100%;
+	height: 685px;
+	background: #f5f5f5;
+	margin-top: 100px;
+}
+
+.t2 {
+	text-align: center;
+	margin-top: -600px;
+}
+
+.yi {
+	font-size: 26px;
+}
+
+.photo {
+	margin: 30px auto;
+	text-align: center;
+}
+
+.photo img {
+	padding: 20px;
+}
+
+.t3 {
+	margin-top: 100px auto;
+}
+
+.bgx {
+	background: url(../img/gbg.png) 0 0 no-repeat;
+	background-position-x: center;
+	width: 556px;
+	height: 225px;
+	margin: auto;
+	margin-top: -150px;
+}
+
+.yi3 {
+	font-size: 26px;
+	text-align: center;
+	display: block;
+	margin-top: 80px;
+}
+
+.er3 {
+	color: #a6a5a5;
+	display: block;
+	text-align: center;
+	margin-top: 100px;
+	font-size: 14px;
+}
+
+.J {
+	text-align: center;
+	display: block;
+	margin-top: 0px;
+	margin-left: 300px;
+}
+
+div.search {
+	padding: 30px 0;
+	text-align: center;
+	margin-top: 80px;
+}
+
+form {
+	width: 100%;
+	margin: 0 auto;
+	color: #1a1d20;
+}
+
+input,
+button {
+	border: none;
+	outline: none;
+}
+
+input {
+	width: 250px;
+	height: 50px;
+	padding-left: 13px;
+}
+
+button {
+	height: 50px;
+	width: 50px;
+	cursor: pointer;
+}
+
+.s {
+	font-size: 24px;
+	color: #FFFFFF;
+	padding-right: 32px;
+}
+
+.bar6 {
+	background: #1a1d20;
+}
+
+.bar6 input {
+	border-radius: 5px;
+	background: #292c2f;
+	top: 0;
+	right: 0;
+}
+
+.bar6 button {
+	background: #ffa200;
+	border-radius: 5px;
+	width: 100px;
+}
+
+.bar6 button:before {
+	content: "SEND";
+	font-size: 14px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+.bgr {
+	width: 100%;
+	height: 334px;
+	background: url(../img/row1copy2.png) 0 0 no-repeat;
+	background-size: 100% 100%;
+}
+
+.bgl {
+	width: 100%;
+	height: 334px;
+	background-color: rgba(46,195,227,0.8);
+	margin-top: -334px;
+}
+
+.niao {
+	display: block;
+	margin: auto;
+	margin-top: -290px;
+}
+
+.left {
+	padding-left: 200px;
+}
+
+.right {
+	padding-left: 1050px;
+}
+
+.c {
+	width: 800px;
+	margin: auto;
+	font-size: 16px;
+	display: block;
+	color: #fff;
+	text-align: center;
+}
+
+
+.footer2 {
+	height: 200px;
+	margin-top: 100px;
+}
+
+.bgb {
+	width: 100%;
+}
+
+.follow {
+	font-size: 24px;
+	color: #FFFFFF;
+	text-align: center;
+	display: block;
+	margin-top: -160px;
+}
+
+.icons {
+	text-align: center;
+}
+
+.icons img {
+	margin-right: 15px;
+}
+
+.footer3 {
+	height: 54px;
+	margin-top: 19px;
+}
+
+.bgb2 {
+	width: 100%;
+	height: 54px;
+	background-color: #000000
+}
+
+.bq {
+	color: #ababab;
+	text-align: center;
+	display: block;
+	font-size: 14px;
+	margin-top: -30px;
+}
